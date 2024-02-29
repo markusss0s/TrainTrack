@@ -5,4 +5,4 @@ que nos sale en la documentacion:
 Django REST framework (https://www.django-rest-framework.org/)
 Django CORS headers (https://pypi.org/project/django-cors-headers/)
 A continuacion en nuestro proyecto vue, descargamos axios 
-(https://www.npmjs.com/package/vue-axios)
+(https://www.npmjs.com/package/vue-axios).
